@@ -6,7 +6,7 @@
  ~ **Convergence:** Episode ~350  
  ~ **Total Training Time:** 1.2 hours (500 episodes)
 
-## Algo_Hyperparams:
+## DQN_Hyperparams:
   - **algo:** dqn
   - **env:** ALE/Pong-v5
   - **device:** auto
