@@ -1,10 +1,10 @@
 # Deep Q-Network (DQN) for Atari Pong
 
 ## Quick Results Summary
- **Final Performance:** +15.3 average reward (vs -21 baseline)  
- **Training Speed:** 420 steps/sec (8x faster than baseline)  
- **Convergence:** Episode ~350  
- **Total Training Time:** 1.2 hours (500 episodes)
+ ~ **Final Performance:** +15.3 average reward (vs -21 baseline)  
+ ~ **Training Speed:** 420 steps/sec (8x faster than baseline)  
+ ~ **Convergence:** Episode ~350  
+ ~ **Total Training Time:** 1.2 hours (500 episodes)
 
 ## Training Progression
 
