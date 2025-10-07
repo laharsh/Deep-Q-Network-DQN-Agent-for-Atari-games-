@@ -1,0 +1,15 @@
+{
+  "game": "ALE/Pong-v5",
+  "resumed_from_episode": 10,
+  "additional_episodes": 400,
+  "total_episodes": 410,
+  "training_time_seconds": 5020.441019296646,
+  "training_time_minutes": 83.67401698827743,
+  "best_avg_reward": -18.16,
+  "best_episode": 410,
+  "final_avg_reward": -18.16,
+  "initial_reward": -21.0,
+  "total_improvement": 2.84,
+  "avg_steps_per_second": 90.57994954927248,
+  "final_epsilon": 0.00998645168764533
+}

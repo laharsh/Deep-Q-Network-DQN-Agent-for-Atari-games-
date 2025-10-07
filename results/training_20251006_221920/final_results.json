@@ -1,0 +1,15 @@
+{
+  "game": "ALE/Pong-v5",
+  "total_episodes": 100,
+  "total_time_seconds": 655.1651384830475,
+  "total_time_minutes": 10.919418974717457,
+  "best_avg_reward": -20.1,
+  "best_episode": 10,
+  "final_avg_reward": -20.56,
+  "initial_reward": -21.0,
+  "improvement": 0.4400000000000013,
+  "avg_steps_per_second": 152.28565769958774,
+  "final_epsilon": 0.00998645168764533,
+  "num_parallel_envs": 8,
+  "timestamp": "20251006_221920"
+}
